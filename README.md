@@ -53,4 +53,7 @@ Project ini dikembangkan secara lokal menggunakan:
 ---
 
 ## 👤 Author
-**QUAALAM Team**
+**AUFA AI ENGINEERING**
+
+## 📄 License
+MIT License
