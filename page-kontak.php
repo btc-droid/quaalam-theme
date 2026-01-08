@@ -21,7 +21,7 @@ get_header();
         <div class="contact-info">
             <div class="info-item">
                 <h3>📍 Alamat Kantor</h3>
-                <p>Jl. Contoh Alamat No. 123, Kota Anda, Indonesia.</p>
+                <p>Jl. Kemakmuran, Desa/Kelurahan Puty, Kecamatan Bua, Kabupaten Luwu, Provinsi Sulawesi Selatan</p>
             </div>
             <div class="info-item">
                 <h3>📞 Telepon / WhatsApp</h3>

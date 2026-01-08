@@ -34,9 +34,17 @@ quaalam-theme/
 
 ---
 
-## 🚀 Cara Menggunakan
+## 🚀 Cara Menjalankan (Untuk Klien/User)
+1. Buka aplikasi **Laragon**.
+2. Klik tombol **Start All** (pastikan Apache & MySQL berjalan).
+3. Buka browser (Chrome/Edge).
+4. Akses alamat: [http://localhost/quaalam/](http://localhost/quaalam/)
+
+---
+
+## ⚙️ Instalasi (Teknis)
 1. Copy folder `quaalam-theme` ke:
-wp-content/themes/
+   `wp-content/themes/`
 2. Login ke WordPress Admin
 3. Masuk **Appearance → Themes**
 4. Aktifkan **QUAALAM**
